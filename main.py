@@ -1,1 +1,3 @@
-print("lol")
+import subprocess
+
+subprocess.call("")
