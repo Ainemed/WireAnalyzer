@@ -1,0 +1,6 @@
+pyshark
+PyQt5
+pandas
+matplotlib
+scapy
+rich
